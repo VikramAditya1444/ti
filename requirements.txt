@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+Pillow
+beautifulsoup4
+requests
+protobuf
+python-dotenv
